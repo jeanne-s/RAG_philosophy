@@ -1,1 +1,1 @@
-# RAG_philosophy
+I built a RAG system to answer questions on my philosophy class content and help me study for the exams. The system leverages Ollama for generating responses and ChromaDB for storing and retrieving relevant embeddings.
